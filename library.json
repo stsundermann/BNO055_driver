@@ -1,0 +1,22 @@
+{
+    "name": "BNO055",
+    "keywords": "BNO055",
+    "description": "Arduino Library for BNO055",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/stsundermann/BNO055_driver.git"
+    },
+    "authors":
+    [
+    ],
+    "dependencies":
+    {
+      "name": "Wire",
+      "authors": "Paul Stoffregen",
+      "frameworks": "arduino"
+    },
+    "version": "2.0.3",
+    "frameworks": "arduino",
+    "platforms": "*"
+  }
